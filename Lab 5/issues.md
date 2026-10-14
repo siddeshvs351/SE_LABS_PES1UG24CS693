@@ -38,3 +38,6 @@ The digital wallet program was improved by addressing security vulnerabilities, 
 
 ### Bandit Verification
 All Bandit findings were addressed, and the after-scan reported no remaining issues.
+
+### Flake8 Verification
+All Flake8 formatting violations were corrected, and the after-check reported no violations.
