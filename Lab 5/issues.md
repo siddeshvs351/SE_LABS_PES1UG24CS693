@@ -35,3 +35,6 @@ The line numbers below refer to the original source and reports. Verify the exac
 ## Conclusion
 
 The digital wallet program was improved by addressing security vulnerabilities, code-quality warnings, and formatting violations. The final reports showed a Pylint score of 10.00/10, no Bandit findings, and no Flake8 formatting violations.
+
+### Bandit Verification
+All Bandit findings were addressed, and the after-scan reported no remaining issues.
