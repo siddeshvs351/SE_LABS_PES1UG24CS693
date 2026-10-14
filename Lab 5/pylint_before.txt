@@ -1,0 +1,8 @@
+************* Module digital_wallet
+digital_wallet.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+digital_wallet.py:...:0: C0103: Function name doesn't conform to snake_case naming style (invalid-name)
+digital_wallet.py:...:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+digital_wallet.py:...:0: W0602: Using global statement (global-statement)
+digital_wallet.py:...:0: W0612: Unused variable 'merchantType' (unused-variable)
+
+Your code has been rated at 5.69/10
